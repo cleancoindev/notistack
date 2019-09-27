@@ -25,7 +25,7 @@ const styles = theme => ({
     },
     reverseColumns: { flexDirection: 'column-reverse' },
 
-    top: { top: SNACKBAR_INDENTS.view.default - SNACKBAR_INDENTS.snackbar.default },
+    top: { top: 45 },
     topDense: { top: SNACKBAR_INDENTS.view.dense - SNACKBAR_INDENTS.snackbar.dense },
 
     bottom: { bottom: SNACKBAR_INDENTS.view.default - SNACKBAR_INDENTS.snackbar.default },
