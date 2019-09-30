@@ -34,7 +34,7 @@ const styles = theme => ({
     left: { left: SNACKBAR_INDENTS.view.default },
     leftDense: { left: SNACKBAR_INDENTS.view.dense },
 
-    right: { right: SNACKBAR_INDENTS.view.default },
+    right: { right: 14 },
     rightDense: { right: SNACKBAR_INDENTS.view.dense },
 
     center: {
