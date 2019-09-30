@@ -1,7 +1,7 @@
 Thanks to all contributers who improved notistack by opening an issue/PR.
 
 
-### `notistack@0.9.3`
+### `notistack@0.9.4`
 **@germartinez**: Override SnackbarContainer margins
 
 <br />

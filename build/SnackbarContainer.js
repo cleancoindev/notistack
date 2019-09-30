@@ -49,7 +49,7 @@ var styles = function styles(theme) {
         }),
         reverseColumns: { flexDirection: 'column-reverse' },
 
-        top: { top: 45 },
+        top: { top: 58 },
         topDense: { top: _constants.SNACKBAR_INDENTS.view.dense - _constants.SNACKBAR_INDENTS.snackbar.dense },
 
         bottom: { bottom: _constants.SNACKBAR_INDENTS.view.default - _constants.SNACKBAR_INDENTS.snackbar.default },
